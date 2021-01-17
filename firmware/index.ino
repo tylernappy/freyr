@@ -1,9 +1,6 @@
-#define D2
-#define D3
-
 // 10 seconds
 unsigned long t_end;
-unsigned long watering_duration = 10000; 
+unsigned long watering_duration = 50000; 
 
 int waterPlant(String command);
 
